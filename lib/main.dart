@@ -1,5 +1,7 @@
 import 'package:calisma_yapisi/anasayfa.dart';
+import 'package:calisma_yapisi/odev3.dart';
 import 'package:flutter/material.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +18,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: const Anasayfa(),
+      home: const Odev3(),//Anasayfa(),
     );
   }
 }
