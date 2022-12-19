@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: const Odev3(),//Anasayfa(),
+      home:  Anasayfa(), //Odev3(),
     );
   }
 }
